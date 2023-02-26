@@ -1,5 +1,7 @@
 # 2023_redPitaya_teamDefMatrix
 
+> Created by Team Defense Matrix
+
 This stores all of the code used to complete the Red Pitaya "Stranded in Space" 2023 Hackathon. Teams were required to implement the Red Pitaya board to achieve message transmission. 
 
  - We have successfully decoded the challenge Morse code, which was outputed at 57.6 KHz as a square wave.
