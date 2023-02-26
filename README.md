@@ -10,3 +10,6 @@ This stores all of the code used to complete the Red Pitaya "Stranded in Space" 
 
 Hackathon info page: 
 https://clean-moose-dbb.notion.site/Hackathon-Stranded-in-Space-with-Red-Pitaya-d8953433090949369d376d8645da7aef]
+
+Helpful exercise:
+https://clean-moose-dbb.notion.site/Stranded-in-Space-with-Red-Pitaya-3ad972255fe94cdcac00e23f79404835
