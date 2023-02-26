@@ -9,7 +9,7 @@ This stores all of the code used to complete the Red Pitaya "Stranded in Space" 
  - The transmission function worked well in all scenarios, successfully transmitting a plaintext message encoded to Morse code.
 
 Hackathon info page: 
-https://clean-moose-dbb.notion.site/Hackathon-Stranded-in-Space-with-Red-Pitaya-d8953433090949369d376d8645da7aef]
+https://clean-moose-dbb.notion.site/Hackathon-Stranded-in-Space-with-Red-Pitaya-d8953433090949369d376d8645da7aef
 
 Helpful exercise:
 https://clean-moose-dbb.notion.site/Stranded-in-Space-with-Red-Pitaya-3ad972255fe94cdcac00e23f79404835
